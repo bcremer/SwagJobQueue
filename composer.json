@@ -1,0 +1,11 @@
+{
+    "name": "bcremer/swagjobqueue",
+    "type": "shopware-core-plugin",
+    "license": "MIT",
+    "require": {
+        "pda/pheanstalk": "~2.1.0"
+    },
+    "autoload": {
+        "psr-4": { "ShopwarePlugins\\SwagJobQueue\\": "" }
+    }
+}
