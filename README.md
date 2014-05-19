@@ -104,3 +104,7 @@ public function onAddWorker($args)
 }
 ```
 
+## Examples
+ - [SwagAsyncImageGenerator](https://github.com/bcremer/SwagAsyncImageGenerator) - A example worker that replaces the default thumbnail generator with a async one.
+
+
