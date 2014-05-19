@@ -12,6 +12,13 @@ Currently two types of queues are implemented. A InMemoryQueue for testing pupos
 
 ## Installation
 
+Clone this repo into the `Core` namespace in your `Local` plugin directory:
+
+```bash
+$ cd /path/to/your/shopware/installation
+$ git clone https://github.com/bcremer/SwagJobQueue.git engine/Shopware/Plugins/Local/Core/SwagJobQueue
+```
+
 Install dependencies via composer:
 
 ```bash
